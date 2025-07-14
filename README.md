@@ -1,5 +1,2 @@
-first intialize node project by using the command
-  npm init -y
-next install express using
-  npm install express
-then later run the index.js file
+this is the second updated version
+here we added json file to permanantly store the details without reseting the details after the server resets
